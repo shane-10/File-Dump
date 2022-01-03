@@ -9,3 +9,8 @@ Silver
 Gray
 Black
 Brown
+Circle
+Square
+Triangle
+Pryamid
+Sphere
