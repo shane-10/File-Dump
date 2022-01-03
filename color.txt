@@ -8,3 +8,8 @@ Orange
 Silver
 Gray
 Black
+Circle
+Square
+Triangle
+Pryamid
+Sphere
