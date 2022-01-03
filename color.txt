@@ -5,3 +5,5 @@ Blue
 White
 Purple
 Orange
+Silver
+Gray
