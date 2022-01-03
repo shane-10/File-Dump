@@ -20,3 +20,8 @@ Laptop
 TV
 Microwave
 Fridge
+One
+Two
+Three
+Four
+Five
