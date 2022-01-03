@@ -14,3 +14,8 @@ Square
 Triangle
 Pryamid
 Sphere
+Phone
+Laptop
+TV
+Microwave
+Fridge
